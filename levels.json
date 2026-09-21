@@ -1,0 +1,361 @@
+{
+    "name": "BTRX Demonlist",
+    "description": "",
+    "levels": [
+      {
+          "id": "52919433",
+          "position": 1,
+          "name": "Arctic Lights",
+          "creator": "Metalface221",
+          "verifier": "NovaX",
+          "difficulty": "Extreme Demon",
+          "verification": "https://www.youtube.com/watch?v=YK4_fwnuAH0",
+          "records": []
+      },
+        {
+            "id": "26681070",
+            "position": 2,
+            "name": "Sonic Wave",
+            "creator": "Cyclic",
+            "verifier": "Iceeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/f7QFy9asfiE?si=WGpiLtp3XzfunMps",
+            "records": []
+        },
+        {
+            "id": "51791710",
+            "position": 3,
+            "name": "Auditory Breaker",
+            "creator": "Lazerblitz",
+            "verifier": "Iceeeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+            "records": []
+        },
+        {
+            "id": "10565740",
+            "position": 4,
+            "name": "Bloodbath",
+            "creator": "Riot",
+            "verifier": "Iceeeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+            "records": [
+                {
+                    "player": "Esxtra",
+                    "percent": 100,
+                    "video": "https://youtu.be/LOjDKSLReWY?si=knKL7RbIQ_dKfecZ"
+                },
+                {
+                    "player": "NovaX",
+                    "percent": 100,
+                    "video": "https://youtu.be/v-RGfxSF6YI?si=Vl7HwvhFifsm4wyP"
+                },
+                {
+                    "player": "Purpwl",
+                    "percent": 100,
+                    "video": "https://youtu.be/8-IKaGGb7O4?si=JEXb2hJSy0-5JEOl"
+                }
+            ]
+        },
+        {
+            "id": "77008332",
+            "position": 5,
+            "name": "Gravity",
+            "creator": "KazaGD",
+            "verifier": "Esxtra",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/oHQ35IcQcCA?si=27Ut1gttU1Q0b8jg",
+            "records": []
+        },
+        {
+            "id": "95757926",
+            "position": 6,
+            "name": "Cupid",
+            "creator": "vpn & more",
+            "verifier": "Iceeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://www.youtube.com/watch?v=7jdl_XOei_M",
+            "records": []
+        },
+        {
+            "id": "147062307",
+            "position": 7,
+            "name": "Cemetary",
+            "creator": "Rainfall62, NovaX",
+            "verifier": "NovaX",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/4jBWM0PYr8Y?si=spHbbuPulkgge3vt",
+            "records": []
+        },
+        {
+            "id": "cataclysm",
+            "position": 8,
+            "name": "Cataclysm",
+            "creator": "GGb0y",
+            "verifier": "NovaX",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/AfNDrkHM6k8?si=fVrTEZUt7__z3AcI",
+            "records": []
+        },
+        {
+            "id": "62214792",
+            "position": 9,
+            "name": "Azurite",
+            "creator": "Sillow",
+            "verifier": "NovaX",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/WRnKTvj8oCc?si=cnGizACApNNjNP1f",
+            "records": []
+        },
+        {
+            "id": "114933189",
+            "position": 10,
+            "name": "Through The Decay",
+            "creator": "Spark",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/7YpPSqAMYuA?si=YU_pJBM5C8IyHdWU",
+            "records": [
+                {
+                    "player": "Esxtra",
+                    "percent": 100,
+                    "video": "https://youtu.be/KlAHBbRdht8?si=UtU4LNr6uBYLha_L"
+                }
+            ]
+        },
+        {
+            "id": "20761188",
+            "position": 11,
+            "name": "Allegiance",
+            "creator": "NikroPlays",
+            "verifier": "Iceeeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/4jBWM0PYr8Y?si=spHbbuPulkgge3vt",
+            "records": []
+        },
+
+        {
+            "id": "81148582",
+            "position": 12,
+            "name": "Sweater Weather",
+            "creator": "VelYT",
+            "verifier": "Esxtra",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/sfrkGifVajA?si=6or_7AVjQ4DzKUax",
+            "records": []
+        },
+        {
+            "id": "87425029",
+            "position": 13,
+            "name": "Niwa",
+            "creator": "Teno",
+            "verifier": "Esxtra",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/EhPxPs5juso?si=KXcjaf-LaAo514lo",
+            "records": [
+                {
+                    "player": "Iceeeater",
+                    "percent": 100,
+                    "video": "https://youtu.be/he4nKrg651U?si=OSzYpfrnoq6Zeq4C"
+                }
+            ]
+        },
+
+        {
+            "id": "2241592",
+            "position": 14,
+            "name": "Necropolis",
+            "creator": "IIInEptunEIII",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/05d7Faeccbs?si=E1Yix8Z8kgXIkzsj",
+            "records": []
+        },
+        {
+            "id": "138356396",
+            "position": 15,
+            "name": "Brutal",
+            "creator": "Tshack",
+            "verifier": "Iceeeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/uErp2lYmCJY?si=ZzAu9ryTJ_DF5Ag3",
+            "records": []
+        },
+        {
+            "id": "61079355",
+            "position": 16,
+            "name": "Acu",
+            "creator": "Neigefeu",
+            "verifier": "Iceeeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://www.youtube.com/live/1UPiTUOOi0o?si=hxWtI5J_CcPOpzd5",
+            "records": []
+        },
+
+
+        {
+            "id": "260693",
+            "position": 17,
+            "name": "Stereo Demoness",
+            "creator": "MaJack0",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/CwGetSheOic?si=ptM_KC4QzWuFzhK8",
+            "records": []
+        },
+        {
+            "id": "95764848",
+            "position": 18,
+            "name": "Mizureta",
+            "creator": "Dutchiee",
+            "verifier": "Iceeeater",
+            "difficulty": "Extreme Demon",
+            "verification": "",
+            "records": [
+              {
+                  "player": "Esxtra",
+                  "percent": 100,
+                  "video": "https://youtu.be/qETTuHNi0sw?si=-G7nLS1pEqPR9M4b"
+              },
+                {
+                    "player": "Bread",
+                    "percent": 100,
+                    "video": "https://youtu.be/7Xmty80Ym4k?si=jDJILyTHGX2gQxbV"
+                }
+            ]
+        },
+
+
+        {
+            "id": "13437081",
+            "position": 19,
+            "name": "Firewall",
+            "creator": "Hinds",
+            "verifier": "NovaX",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/4jBWM0PYr8Y?si=spHbbuPulkgge3vt",
+            "records": []
+        },
+        {
+            "id": "5155022",
+            "position": 20,
+            "name": "Acropolis",
+            "creator": "Zobros",
+            "verifier": "Iceeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/GXculBZFmRc?si=Nb8TJJz11yMKLpn0",
+            "records": []
+        },
+        {
+            "id": "4957691",
+            "position": 21,
+            "name": "Windy Landscape",
+            "creator": "WOOGI1411",
+            "verifier": "Iceeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/kciCssUTM44?si=LJzVkHFnt71DeZVw",
+            "records": [
+                {
+                    "player": "Rainfall62",
+                    "percent": 100
+                }
+            ]
+        },
+        {
+            "id": "7054561",
+            "position": 22,
+            "name": "Poltergeist",
+            "creator": "Andromeda",
+            "verifier": "Iceeater",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/VjIm8P4UIHM?si=RJhMlLt8f_vnuBBg",
+            "records": []
+        },
+        {
+            "id": "130541717",
+            "position": 23,
+            "name": "Blazing Mercury II",
+            "creator": "Rainfall62",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/GXculBZFmRc?si=Nb8TJJz11yMKLpn0",
+            "records": []
+        },
+        {
+            "id": "62857306",
+            "position": 24,
+            "name": "Different Descent",
+            "creator": "Danke",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/IOfvWEsYJ_8?si=AaEPfFocJ0-ONwGv",
+            "records": []
+        },
+        {
+            "id": "5310094",
+            "position": 25,
+            "name": "Fairydust",
+            "creator": "NIGHTkilla",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/VKPa7Jg55mM?si=WR0S41YFeluLtSOf",
+            "records": []
+        },
+        {
+            "id": "139524121",
+            "position": 26,
+            "name": "Livid8",
+            "creator": "Rainfall62",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/gGoAn-Hf4HU?si=w7NGvFabqVQvrRvc",
+            "records": []
+        },
+        {
+            "id": "44062068",
+            "position": 27,
+            "name": "Future Funk",
+            "creator": "JonathanGD",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/qiIBkuAmne8?si=uLS6-DdSHURDQRWF",
+            "records": []
+        },
+        {
+            "id": "15274331",
+            "position": 28,
+            "name": "Bloodroom",
+            "creator": "herozombie80",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/QGoZVSXHTQE?si=xF4vzcSXsRXMeB7B",
+            "records": []
+        },
+        {
+            "id": "131996968",
+            "position": 29,
+            "name": "R62 Cube CHallenge",
+            "creator": "Rainfall62",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/EjsfH_Hoam8?si=nRlGkYCH1h0aH8R4",
+            "records": [
+                {
+                    "player": "Esxtra",
+                    "percent": 100
+                }
+            ]
+        },
+        {
+            "id": "45558320",
+            "position": 30,
+            "name": "Conchetumare X",
+            "creator": "Nacho21",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://youtu.be/xk445JHMf7Q?si=4CamFsU1PJe8BNeN",
+            "records": []
+        }
+    ]
+}
