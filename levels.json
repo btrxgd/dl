@@ -84,7 +84,7 @@
             "name": "Cemetary",
             "creator": "Rainfall62, NovaX",
             "verifier": "NovaX",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Extreme Demon?(Unrated)",
             "verification": "https://youtu.be/4jBWM0PYr8Y?si=spHbbuPulkgge3vt",
             "records": []
         },
@@ -168,7 +168,7 @@
             "name": "Necropolis",
             "creator": "IIInEptunEIII",
             "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Insane Demon",
             "verification": "https://youtu.be/05d7Faeccbs?si=E1Yix8Z8kgXIkzsj",
             "records": []
         },
@@ -200,7 +200,7 @@
             "name": "Stereo Demoness",
             "creator": "MaJack0",
             "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Insane Demon",
             "verification": "https://youtu.be/CwGetSheOic?si=ptM_KC4QzWuFzhK8",
             "records": []
         },
@@ -233,27 +233,43 @@
             "name": "Firewall",
             "creator": "Hinds",
             "verifier": "NovaX",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Insane Demon",
             "verification": "https://youtu.be/4jBWM0PYr8Y?si=spHbbuPulkgge3vt",
             "records": []
         },
         {
-            "id": "5155022",
+            "id": "87425029",
             "position": 20,
+            "name": "R62 Wave",
+            "creator": "Guess ya cheescake",
+            "verifier": "Rainfall62",
+            "difficulty": "Extreme Demon",
+            "verification": "https://www.youtube.com/watch?v=eWFjuaiXbCM&pp=ygUIcjYyIHdhdmU%3D",
+            "records": [
+                {
+                    "player": "NovaX",
+                    "percent": 100,
+                    "video": "Unavailable currently"
+                }
+            ]
+        },
+        {
+            "id": "5155022",
+            "position": 21,
             "name": "Acropolis",
             "creator": "Zobros",
             "verifier": "Iceeater",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Insane Demon",
             "verification": "https://youtu.be/GXculBZFmRc?si=Nb8TJJz11yMKLpn0",
             "records": []
         },
         {
             "id": "4957691",
-            "position": 21,
+            "position": 22,
             "name": "Windy Landscape",
             "creator": "WOOGI1411",
             "verifier": "Iceeater",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Insane Demon",
             "verification": "https://youtu.be/kciCssUTM44?si=LJzVkHFnt71DeZVw",
             "records": [
                 {
@@ -264,81 +280,81 @@
         },
         {
             "id": "7054561",
-            "position": 22,
+            "position": 23,
             "name": "Poltergeist",
             "creator": "Andromeda",
             "verifier": "Iceeater",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Insane Demon",
             "verification": "https://youtu.be/VjIm8P4UIHM?si=RJhMlLt8f_vnuBBg",
             "records": []
         },
         {
             "id": "130541717",
-            "position": 23,
+            "position": 24,
             "name": "Blazing Mercury II",
             "creator": "Rainfall62",
             "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Insane Demon?(Unrated)",
             "verification": "https://youtu.be/GXculBZFmRc?si=Nb8TJJz11yMKLpn0",
             "records": []
         },
         {
             "id": "62857306",
-            "position": 24,
+            "position": 25,
             "name": "Different Descent",
             "creator": "Danke",
             "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Hard Demon",
             "verification": "https://youtu.be/IOfvWEsYJ_8?si=AaEPfFocJ0-ONwGv",
             "records": []
         },
         {
             "id": "5310094",
-            "position": 25,
+            "position": 26,
             "name": "Fairydust",
             "creator": "NIGHTkilla",
             "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Hard Demon",
             "verification": "https://youtu.be/VKPa7Jg55mM?si=WR0S41YFeluLtSOf",
             "records": []
         },
         {
             "id": "139524121",
-            "position": 26,
+            "position": 27,
             "name": "Livid8",
             "creator": "Rainfall62",
             "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Hard Demon?(Unrated)",
             "verification": "https://youtu.be/gGoAn-Hf4HU?si=w7NGvFabqVQvrRvc",
             "records": []
         },
         {
             "id": "44062068",
-            "position": 27,
+            "position": 28,
             "name": "Future Funk",
             "creator": "JonathanGD",
             "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Hard Demon",
             "verification": "https://youtu.be/qiIBkuAmne8?si=uLS6-DdSHURDQRWF",
             "records": []
         },
         {
             "id": "15274331",
-            "position": 28,
+            "position": 29,
             "name": "Bloodroom",
             "creator": "herozombie80",
             "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Poopoo Demon",
             "verification": "https://youtu.be/QGoZVSXHTQE?si=xF4vzcSXsRXMeB7B",
             "records": []
         },
         {
             "id": "131996968",
-            "position": 29,
+            "position": 30,
             "name": "R62 Cube CHallenge",
             "creator": "Rainfall62",
             "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
+            "difficulty": "Prolly Hard Demon",
             "verification": "https://youtu.be/EjsfH_Hoam8?si=nRlGkYCH1h0aH8R4",
             "records": [
                 {
@@ -346,16 +362,6 @@
                     "percent": 100
                 }
             ]
-        },
-        {
-            "id": "45558320",
-            "position": 30,
-            "name": "Conchetumare X",
-            "creator": "Nacho21",
-            "verifier": "Rainfall62",
-            "difficulty": "Extreme Demon",
-            "verification": "https://youtu.be/xk445JHMf7Q?si=4CamFsU1PJe8BNeN",
-            "records": []
         }
     ]
 }
